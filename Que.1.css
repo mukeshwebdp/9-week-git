@@ -58,6 +58,7 @@ form{
 }
 .user-box input:focus ~ label
 /* .user-box input:valid ~ label */ {
+    /* transform: translateX(-10px); */
     font-size: 12px;
     color: #1e87f0;
     top: -20;
